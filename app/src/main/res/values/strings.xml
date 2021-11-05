@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FiresBaseAuth</string>
+    <string name="update_pass">update</string>
+    <string name="logout">logout</string>
+    <string name="signup_btn">sign up</string>
+    <string name="login_btn">login</string>
+    <string name="password_hint">password</string>
+    <string name="email_hint">email</string>
+</resources>
